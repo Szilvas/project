@@ -1,0 +1,123 @@
+/*#bambusHeader {
+    width: auto;
+    border: 1px solid yellow
+
+}
+*/
+
+.pnlHeader {
+    width: auto;
+
+
+}
+
+.pnlHeaderLeft {
+    padding: 13.5px;
+}
+
+.pnlHeaderRight {
+    width: 30px;
+}
+
+a {
+    margin: 0 20px;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+#content {
+    margin-left: 32px;
+    font-size: 25px;
+    padding-top: 20px;
+    background-color: #C4FC9F;
+    margin-top: -23px;
+    width: 1625px;
+
+}
+
+#menuLeft {
+    margin-left: 30px;
+
+}
+
+#menu {
+
+    margin-left: 30px;
+    background-color: greenyellow;
+    width: 1625px;
+
+}
+
+
+
+
+
+footer {
+    background-color: greenyellow;
+    margin-left: 32px;
+    width: 100%;
+    margin-top: 30px;
+    margin-top: -20px;
+    width: 1625px;
+
+
+
+}
+
+
+.elsoFooter {
+    text-align: center;
+    column-width: 760px;
+    font-size: 24px;
+    text-decoration: none;
+
+
+}
+
+.masodikFooter {
+    text-align: center;
+    column-width: 760px;
+    font-size: 24px;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+
+
+ul.list li {
+    width: auto;
+    float: left;
+    list-style: none;
+    background-color: greenyellow;
+
+}
+
+#logo {
+    width: 200px;
+}
+
+#contentText {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.curie {
+    list-style: none;
+}
+
+.linkOkossagok {
+    color: blue;
+    text-decoration: blue;
+    text-decoration-line: underline;
+
+}
+
+.linkIndex {
+    color: blue;
+    text-decoration: blue;
+    text-decoration-line: underline;
+    font-size: 28px;
+
+}
